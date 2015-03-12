@@ -1,6 +1,6 @@
 # Jerrys Simple Grid
 
-I built this very simple grid for when I don't need all the joys of Bootstrap. It is desktop first, and follows a lot of the bootstrap ways. 
+I am building this very simple grid for when I don't need all the joys of Bootstrap. It is desktop first, and follows a lot of the bootstrap ways. 
 
 ## Use of this grid
 
